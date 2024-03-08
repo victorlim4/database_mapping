@@ -40,7 +40,7 @@ pip install psycopg2
 
 1. **Faça um Fork do Repositório**: Primeiro, faça um fork deste repositório.
 
-2. **Clonar o Repositório**: Primeiro, clone este repositório para o seu ambiente de desenvolvimento local.
+2. **Clonar o Repositório**: Em seguida, clone este repositório para o seu ambiente de desenvolvimento local.
 
 3. **Instalar Dependências**: Execute o comando `pip install <biblioteca>` para instalar a dependência
 
